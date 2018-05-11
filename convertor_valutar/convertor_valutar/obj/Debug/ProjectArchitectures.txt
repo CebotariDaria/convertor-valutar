@@ -1,0 +1,1 @@
+D:\Project\convertor_valutar\convertor_valutar\convertor_valutar.csproj;neutral
